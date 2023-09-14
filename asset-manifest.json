@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Rivo_fashion_shop/static/css/main.66e6bfe5.css",
+    "main.js": "/Rivo_fashion_shop/static/js/main.aa595d31.js",
+    "static/media/offer-girl.png": "/Rivo_fashion_shop/static/media/offer-girl.275dd85591b970413567.png",
+    "static/media/pexels-dima-valkov-6402847 2.png": "/Rivo_fashion_shop/static/media/pexels-dima-valkov-6402847 2.4ab0f5fe3ac855a6db84.png",
+    "static/media/pexels-dima-valkov-6503007 3.png": "/Rivo_fashion_shop/static/media/pexels-dima-valkov-6503007 3.cb68c689b6bea7e0a531.png",
+    "static/media/pexels-dima-valkov-6211616 (1) 2.png": "/Rivo_fashion_shop/static/media/pexels-dima-valkov-6211616 (1) 2.c302de2fefcbdb7bfbd6.png",
+    "static/media/img2.png": "/Rivo_fashion_shop/static/media/img2.da3db5b417ac566aba35.png",
+    "static/media/img8.png": "/Rivo_fashion_shop/static/media/img8.90a59c0b80c3277dbb0e.png",
+    "static/media/img4.png": "/Rivo_fashion_shop/static/media/img4.70a6c6f6403de3408e99.png",
+    "static/media/img5.png": "/Rivo_fashion_shop/static/media/img5.2d1abbb64d2aeb885a2a.png",
+    "static/media/img1.png": "/Rivo_fashion_shop/static/media/img1.b6a2a7ee5db04dc90ff4.png",
+    "static/media/pexels-dima-valkov-6211621 1.png": "/Rivo_fashion_shop/static/media/pexels-dima-valkov-6211621 1.31d03997b20fc20d9715.png",
+    "static/media/img3.png": "/Rivo_fashion_shop/static/media/img3.9581ee937ca86b09ca60.png",
+    "static/media/img7.png": "/Rivo_fashion_shop/static/media/img7.29a2901ae3b503587f97.png",
+    "static/media/revicons.eot": "/Rivo_fashion_shop/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Rivo_fashion_shop/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Rivo_fashion_shop/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Rivo_fashion_shop/index.html",
+    "main.66e6bfe5.css.map": "/Rivo_fashion_shop/static/css/main.66e6bfe5.css.map",
+    "main.aa595d31.js.map": "/Rivo_fashion_shop/static/js/main.aa595d31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e6bfe5.css",
+    "static/js/main.aa595d31.js"
+  ]
+}
