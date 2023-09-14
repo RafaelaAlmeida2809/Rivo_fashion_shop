@@ -1,0 +1,19 @@
+.shop .div-image figure:nth-child(1) img {
+  background-color: var(--sixth-color);
+}
+.shop .div-image figure:nth-child(2) img {
+  background-color: var(--fourth-color);
+}
+.shop .div-image figure:nth-child(3) img {
+  background-color: var(--third-color);
+}
+.shop b,
+.shop p {
+  font-family: "Poppins", sans-serif;
+  color: var(--complementar-base-color);
+}
+.shop h2 {
+  font-family: "Rufina", serif;
+  font-weight: bold;
+  color: var(--complementar-base-color);
+}

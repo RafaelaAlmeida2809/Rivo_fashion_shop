@@ -1,0 +1,60 @@
+.App {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+:root {
+  --base-color: #c2efd4;
+  --complementar-base-color: #224f34;
+  --second-color: #6bc785;
+  --third-color: #cadcd0;
+  --fourth-color: #a9d4ba;
+  --sixth-color: #93b9a2;
+  --seventh-color: #93b9a2;
+  --eighth-color: #93b9a2;
+  --ninth-color: #93b9a2;
+  --tenth-color: #93b9a2;
+}
+.App .btn-base,
+.App .btn-base-second:hover,
+.App .btn-base-third:active {
+  background-color: var(--complementar-base-color);
+  color: white;
+  border-radius: 0;
+  border: none;
+}
+.App .btn-base:hover,
+.App .btn-base-second,
+.App .btn-base-third:hover {
+  background-color: transparent;
+  color: var(--complementar-base-color);
+  border-radius: 0;
+  border: 1px solid var(--complementar-base-color);
+}
+.App .btn-base:active,
+.App .btn-base-second:active,
+.App .btn-base-third {
+  background-color: var(--second-color);
+  color: white;
+  border-radius: 0;
+  border: none;
+}
+.App .inp-base,
+.App .inp-base-second,
+.App .inp-base-third {
+  background-color: transparent;
+  border: 1px solid var(--second-color);
+  color: white;
+  border-radius: 0;
+  min-width: 200px;
+}
+.App .btn-base-link {
+  background-color: transparent;
+  border: 1px solid transparent;
+}
+.App .btn-base-link:hover {
+  border-bottom: 1px solid var(--second-color);
+}
+.App .btn-base-link:focus,
+.App .btn-base-link:active {
+  border-bottom: 1px solid var(--complementar-base-color);
+}

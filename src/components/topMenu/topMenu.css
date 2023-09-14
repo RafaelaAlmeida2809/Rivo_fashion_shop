@@ -1,0 +1,9 @@
+.topMenu {
+  background-color: var(--base-color);
+  color: var(--complementar-base-color);
+}
+.topMenu .title {
+  font-family: "Rufina", serif;
+  font-weight: bold;
+  color: var(--complementar-base-color);
+}

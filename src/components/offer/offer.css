@@ -1,0 +1,10 @@
+.offer {
+  background-color: var(--base-color);
+}
+.offer .cardData {
+  background-color: white;
+  width: 70px;
+}
+.offer .cardData p {
+  font-size: 10pt;
+}

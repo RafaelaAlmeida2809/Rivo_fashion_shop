@@ -1,0 +1,26 @@
+@media (min-width: 700px) {
+  .product .image img {
+    height: 250px;
+    width: 190px;
+    object-fit: cover;
+  }
+}
+@media (max-width: 700px) {
+  .product .image img {
+    height: 200px;
+    width: 190px;
+    object-fit: cover;
+  }
+}
+.product .image {
+  flex-direction: column;
+  height: 100%;
+}
+.product .image img {
+  background-color: var(--third-color);
+}
+.product h2 {
+  font-family: "Rufina", serif;
+  font-weight: bold;
+  color: var(--complementar-base-color);
+}

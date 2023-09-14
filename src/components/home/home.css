@@ -1,0 +1,26 @@
+.home .pexelsImage {
+  background-color: var(--second-color);
+  border-radius: 90px 50px 90px 50px;
+  max-width: 80vw;
+  max-height: 80vh;
+}
+.home .pexelsImage img {
+  max-height: 80vh;
+}
+.home {
+  background-color: var(--base-color);
+  max-width: 100vw;
+}
+.home h1 {
+  font-family: "Rufina", serif;
+  font-weight: bold;
+  font-size: 33pt;
+}
+.home p {
+  font-family: "Poppins", sans-serif;
+}
+.home .text-start {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

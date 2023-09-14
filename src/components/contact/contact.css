@@ -1,0 +1,7 @@
+.contact form {
+  background-color: var(--base-color);
+}
+.contact label {
+  font-family: "Rufina", serif;
+  font-weight: bold;
+}
